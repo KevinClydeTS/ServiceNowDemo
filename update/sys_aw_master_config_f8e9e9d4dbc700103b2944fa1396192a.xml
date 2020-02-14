@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config">
+    <sys_aw_master_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page>
+        <compiled_page_registry display_value="JEPES">f0e9e9d4dbc700103b2944fa1396192b</compiled_page_registry>
+        <description>Junior Enlisted Performance Evaluation System</description>
+        <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
+        <global_search_data display_value="JEPES Search Context Config">7ce9e9d4dbc700103b2944fa13961928</global_search_data>
+        <name>JEPES</name>
+        <navigation_type>tab</navigation_type>
+        <notifications_enabled>true</notifications_enabled>
+        <search_enabled>true</search_enabled>
+        <sys_class_name>sys_aw_master_config</sys_class_name>
+        <sys_created_by>Kevin.Clyde</sys_created_by>
+        <sys_created_on>2020-02-14 16:27:56</sys_created_on>
+        <sys_id>f8e9e9d4dbc700103b2944fa1396192a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>JEPES</sys_name>
+        <sys_package display_value="JEPES" source="x_usmcc_jepes">31f02110dbc700103b2944fa13961982</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JEPES">31f02110dbc700103b2944fa13961982</sys_scope>
+        <sys_update_name>sys_aw_master_config_f8e9e9d4dbc700103b2944fa1396192a</sys_update_name>
+        <sys_updated_by>Kevin.Clyde</sys_updated_by>
+        <sys_updated_on>2020-02-14 16:27:56</sys_updated_on>
+        <user_preference_controls_enabled>true</user_preference_controls_enabled>
+        <workspace_url>jepes</workspace_url>
+    </sys_aw_master_config>
+</record_update>

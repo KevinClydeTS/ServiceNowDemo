@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Evaluation Marks" max_length="40" name="x_usmcc_jepes_evaluation_marks" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Character Reason" max_length="40" name="character_reason" type="string"/>
+        <element label="Character Score" max_length="15" name="character_score" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Comments" max_length="4000" name="comments" type="journal"/>
+        <element attributes="encode_utf8=false" display="true" label="Evaluation ID" max_length="32" name="evaluation_id" reference="x_usmcc_jepes_evaluation_header" type="reference"/>
+        <element attributes="encode_utf8=false" label="Evaluator" max_length="32" name="evaluator" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Evaluator Type" max_length="40" name="evaluator_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Approver" value="approver"/>
+                <element inactive_on_update="false" label="Approver Senior Enlisted Adviser" value="aprover_se"/>
+                <element inactive_on_update="false" label="Evaluator" value="evaluator"/>
+                <element inactive_on_update="false" label="Evaluator Senior Enlisted Adviser" value="evaluator_se"/>
+                <element inactive_on_update="false" label="Reviewer" value="reviewer"/>
+                <element inactive_on_update="false" label="Reviewer Senior Enlisted Adviser" value="reviewer_se"/>
+                <element inactive_on_update="false" label="Supervisor" value="supervisor"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Leadership Reason" max_length="40" name="leadership_reason" type="string"/>
+        <element label="Leadership Score" max_length="15" name="leadership_score" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Mission Reason" max_length="40" name="mission_reason" type="string"/>
+        <element label="Mission Score" max_length="15" name="mission_score" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <index name="index">
+            <element name="evaluation_id"/>
+        </index>
+        <index name="index2">
+            <element name="evaluator"/>
+        </index>
+    </element>
+</database>

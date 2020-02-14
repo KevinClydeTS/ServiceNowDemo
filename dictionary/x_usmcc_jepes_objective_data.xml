@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Objective Data" max_length="40" name="x_usmcc_jepes_objective_data" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Active Duty Base Date" max_length="40" name="active_duty_base_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Billet Title" max_length="40" name="billet_title" type="string"/>
+        <element label="Bonus" max_length="40" name="bonus" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="CFT Date" max_length="40" name="cft_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="CFT Score" max_length="40" name="cft_score" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Commendatory Adverse Flag" max_length="40" name="commendatory_adverse_flag" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Date of Rank" max_length="40" name="date_of_rank" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="EDIPI" max_length="40" name="edipi" type="string"/>
+        <element attributes="encode_utf8=false" label="Eval ID" max_length="32" name="eval_id" reference="x_usmcc_jepes_evaluation_header" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Martial Arts Belt" max_length="40" name="martial_arts_belt" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="MOS" max_length="40" name="mos" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="PFT Date" max_length="40" name="pft_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="PFT Score" max_length="40" name="pft_score" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Platoon Code" max_length="40" name="platoon_code" type="string"/>
+        <element label="PME" max_length="40" name="pme" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Rank" max_length="40" name="rank" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Rifle Date" max_length="40" name="rifle_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Rifle Score" max_length="40" name="rifle_score" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="RUC" max_length="40" name="ruc" type="string"/>
+        <element label="Self-Education" max_length="40" name="self_education" type="integer"/>
+        <index name="index">
+            <element name="eval_id"/>
+        </index>
+    </element>
+</database>

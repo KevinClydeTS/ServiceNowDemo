@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Evaluation Header" max_length="40" name="x_usmcc_jepes_evaluation_header" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="From Date" max_length="40" name="from_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="MRO Comments" max_length="4000" name="mro_comments" type="journal"/>
+        <element attributes="encode_utf8=false" display="true" label="MRO EDIPI" max_length="32" name="mro_edipi" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Occasion" max_length="40" name="occasion" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Annual" value="AN"/>
+                <element inactive_on_update="false" label="Change of Primary Duty" value="CD"/>
+                <element inactive_on_update="false" label="Discharge" value="DC"/>
+                <element inactive_on_update="false" label="Promotion to Corporal or Sergeant" value="PR"/>
+                <element inactive_on_update="false" label="Recommended" value="RE"/>
+                <element inactive_on_update="false" label="Reduction" value="RD"/>
+                <element inactive_on_update="false" label="Semiannual" value="SA"/>
+                <element inactive_on_update="false" label="Service School Completion" value="SC"/>
+                <element inactive_on_update="false" label="TAD Complete" value="TC"/>
+                <element inactive_on_update="false" label="To TAD" value="TD"/>
+                <element inactive_on_update="false" label="Transfer" value="TR"/>
+            </choice>
+        </element>
+        <element label="Progress" max_length="40" name="progress" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="status" type="string">
+            <choice>
+                <element inactive_on_update="false" label="closed" value="closed"/>
+                <element inactive_on_update="false" label="evaluation" value="evaluation"/>
+                <element inactive_on_update="false" label="open" value="open"/>
+                <element inactive_on_update="false" label="submitted" value="submitted"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="To Date" max_length="40" name="to_date" type="glide_date"/>
+        <index name="index">
+            <element name="mro_edipi"/>
+        </index>
+    </element>
+</database>

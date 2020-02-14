@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>Kevin.Clyde</sys_created_by>
+        <sys_created_on>2020-02-14 16:25:48</sys_created_on>
+        <sys_id>dd69e1d4dbc700103b2944fa139619c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_usmcc_jepes_objective_data.x_usmcc_jepes.jepes_admin</sys_name>
+        <sys_package display_value="JEPES" source="x_usmcc_jepes">31f02110dbc700103b2944fa13961982</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JEPES">31f02110dbc700103b2944fa13961982</sys_scope>
+        <sys_security_acl display_value="x_usmcc_jepes_objective_data">1969e1d4dbc700103b2944fa139619c2</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_dd69e1d4dbc700103b2944fa139619c4</sys_update_name>
+        <sys_updated_by>Kevin.Clyde</sys_updated_by>
+        <sys_updated_on>2020-02-14 16:25:48</sys_updated_on>
+        <sys_user_role display_value="x_usmcc_jepes.jepes_admin" name="x_usmcc_jepes.jepes_admin">62816910dbc700103b2944fa1396197e</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

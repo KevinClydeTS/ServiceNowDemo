@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description>Junior Enlisted Performance Evaluation System Evaluation Header</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <icon display_value="icon-User">faa9e994dbc700103b2944fa139619ec</icon>
+        <name>Details</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>Kevin.Clyde</sys_created_by>
+        <sys_created_on>2020-02-14 16:26:59</sys_created_on>
+        <sys_id>83a929d4dbc700103b2944fa1396191a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="JEPES" source="x_usmcc_jepes">31f02110dbc700103b2944fa13961982</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JEPES">31f02110dbc700103b2944fa13961982</sys_scope>
+        <sys_update_name>sys_sg_details_screen_83a929d4dbc700103b2944fa1396191a</sys_update_name>
+        <sys_updated_by>Kevin.Clyde</sys_updated_by>
+        <sys_updated_on>2020-02-14 16:26:59</sys_updated_on>
+        <table>x_usmcc_jepes_evaluation_header</table>
+    </sys_sg_details_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=83a929d4dbc700103b2944fa1396191a"/>
+</record_update>

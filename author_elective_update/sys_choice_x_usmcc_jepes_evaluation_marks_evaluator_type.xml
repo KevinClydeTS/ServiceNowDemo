@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="evaluator_type" table="x_usmcc_jepes_evaluation_marks" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>evaluator_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Approver</label>
+            <language>en</language>
+            <name>x_usmcc_jepes_evaluation_marks</name>
+            <sequence/>
+            <sys_created_by>Kevin.Clyde</sys_created_by>
+            <sys_created_on>2020-02-14 16:17:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7097e954dbc700103b2944fa13961988</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Kevin.Clyde</sys_updated_by>
+            <sys_updated_on>2020-02-14 16:17:50</sys_updated_on>
+            <value>approver</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>evaluator_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Approver Senior Enlisted Adviser</label>
+            <language>en</language>
+            <name>x_usmcc_jepes_evaluation_marks</name>
+            <sequence/>
+            <sys_created_by>Kevin.Clyde</sys_created_by>
+            <sys_created_on>2020-02-14 16:17:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fc97e954dbc700103b2944fa13961985</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Kevin.Clyde</sys_updated_by>
+            <sys_updated_on>2020-02-14 16:17:50</sys_updated_on>
+            <value>aprover_se</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>evaluator_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Evaluator</label>
+            <language>en</language>
+            <name>x_usmcc_jepes_evaluation_marks</name>
+            <sequence/>
+            <sys_created_by>Kevin.Clyde</sys_created_by>
+            <sys_created_on>2020-02-14 16:17:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b097e954dbc700103b2944fa13961973</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Kevin.Clyde</sys_updated_by>
+            <sys_updated_on>2020-02-14 16:17:50</sys_updated_on>
+            <value>evaluator</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>evaluator_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Evaluator Senior Enlisted Adviser</label>
+            <language>en</language>
+            <name>x_usmcc_jepes_evaluation_marks</name>
+            <sequence/>
+            <sys_created_by>Kevin.Clyde</sys_created_by>
+            <sys_created_on>2020-02-14 16:17:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3097e954dbc700103b2944fa13961971</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Kevin.Clyde</sys_updated_by>
+            <sys_updated_on>2020-02-14 16:17:50</sys_updated_on>
+            <value>evaluator_se</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>evaluator_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reviewer</label>
+            <language>en</language>
+            <name>x_usmcc_jepes_evaluation_marks</name>
+            <sequence/>
+            <sys_created_by>Kevin.Clyde</sys_created_by>
+            <sys_created_on>2020-02-14 16:17:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7c97e954dbc700103b2944fa13961983</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Kevin.Clyde</sys_updated_by>
+            <sys_updated_on>2020-02-14 16:17:50</sys_updated_on>
+            <value>reviewer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>evaluator_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reviewer Senior Enlisted Adviser</label>
+            <language>en</language>
+            <name>x_usmcc_jepes_evaluation_marks</name>
+            <sequence/>
+            <sys_created_by>Kevin.Clyde</sys_created_by>
+            <sys_created_on>2020-02-14 16:17:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f897e954dbc700103b2944fa13961981</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Kevin.Clyde</sys_updated_by>
+            <sys_updated_on>2020-02-14 16:17:50</sys_updated_on>
+            <value>reviewer_se</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>evaluator_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Supervisor</label>
+            <language>en</language>
+            <name>x_usmcc_jepes_evaluation_marks</name>
+            <sequence/>
+            <sys_created_by>Kevin.Clyde</sys_created_by>
+            <sys_created_on>2020-02-14 16:17:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bc97e954dbc700103b2944fa1396196e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Kevin.Clyde</sys_updated_by>
+            <sys_updated_on>2020-02-14 16:17:50</sys_updated_on>
+            <value>supervisor</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>evaluator_type</element>
+            <name>x_usmcc_jepes_evaluation_marks</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Kevin.Clyde</sys_created_by>
+            <sys_created_on>2020-02-14 16:17:50</sys_created_on>
+            <sys_id>3897e954dbc700103b2944fa1396196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>evaluator_type</sys_name>
+            <sys_package display_value="JEPES" source="x_usmcc_jepes">31f02110dbc700103b2944fa13961982</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="JEPES">31f02110dbc700103b2944fa13961982</sys_scope>
+            <sys_update_name>sys_choice_x_usmcc_jepes_evaluation_marks_evaluator_type</sys_update_name>
+            <sys_updated_by>Kevin.Clyde</sys_updated_by>
+            <sys_updated_on>2020-02-14 16:17:50</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

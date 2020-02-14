@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_new_menu_item">
+    <sys_aw_new_menu_item action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <order>300</order>
+        <sys_class_name>sys_aw_new_menu_item</sys_class_name>
+        <sys_created_by>Kevin.Clyde</sys_created_by>
+        <sys_created_on>2020-02-14 16:28:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>75e9add4dbc700103b2944fa139619d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_usmcc_jepes_objective_data</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="JEPES" source="x_usmcc_jepes">31f02110dbc700103b2944fa13961982</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JEPES">31f02110dbc700103b2944fa13961982</sys_scope>
+        <sys_update_name>sys_aw_new_menu_item_75e9add4dbc700103b2944fa139619d5</sys_update_name>
+        <sys_updated_by>Kevin.Clyde</sys_updated_by>
+        <sys_updated_on>2020-02-14 16:28:00</sys_updated_on>
+        <table>x_usmcc_jepes_objective_data</table>
+        <workspace_config display_value="JEPES">f8e9e9d4dbc700103b2944fa1396192a</workspace_config>
+    </sys_aw_new_menu_item>
+</record_update>

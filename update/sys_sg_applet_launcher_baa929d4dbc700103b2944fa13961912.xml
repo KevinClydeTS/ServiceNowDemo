@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button/>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>JEPES</name>
+        <required_roles>x_usmcc_jepes.mro,x_usmcc_jepes.supervisor,x_usmcc_jepes.evaluator_se,x_usmcc_jepes.evaluator,x_usmcc_jepes.reviewer_se,x_usmcc_jepes.reviewer,x_usmcc_jepes.approver_se,x_usmcc_jepes.approver,x_usmcc_jepes.jepes_admin</required_roles>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>Kevin.Clyde</sys_created_by>
+        <sys_created_on>2020-02-14 16:26:59</sys_created_on>
+        <sys_id>baa929d4dbc700103b2944fa13961912</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>JEPES</sys_name>
+        <sys_package display_value="JEPES" source="x_usmcc_jepes">31f02110dbc700103b2944fa13961982</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JEPES">31f02110dbc700103b2944fa13961982</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_baa929d4dbc700103b2944fa13961912</sys_update_name>
+        <sys_updated_by>Kevin.Clyde</sys_updated_by>
+        <sys_updated_on>2020-02-14 16:26:59</sys_updated_on>
+        <title>JEPES</title>
+    </sys_sg_applet_launcher>
+</record_update>

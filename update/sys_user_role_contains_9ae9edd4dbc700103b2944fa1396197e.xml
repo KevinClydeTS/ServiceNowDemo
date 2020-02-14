@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="jepes" name="jepes">42e9edd4dbc700103b2944fa13961943</contains>
+        <role display_value="x_usmcc_jepes.approver_se" name="x_usmcc_jepes.approver_se">ea816910dbc700103b2944fa13961978</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>Kevin.Clyde</sys_created_by>
+        <sys_created_on>2020-02-14 16:28:02</sys_created_on>
+        <sys_id>9ae9edd4dbc700103b2944fa1396197e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>jepes.x_usmcc_jepes.approver_se</sys_name>
+        <sys_package display_value="JEPES" source="x_usmcc_jepes">31f02110dbc700103b2944fa13961982</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JEPES">31f02110dbc700103b2944fa13961982</sys_scope>
+        <sys_update_name>sys_user_role_contains_9ae9edd4dbc700103b2944fa1396197e</sys_update_name>
+        <sys_updated_by>Kevin.Clyde</sys_updated_by>
+        <sys_updated_on>2020-02-14 16:28:02</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

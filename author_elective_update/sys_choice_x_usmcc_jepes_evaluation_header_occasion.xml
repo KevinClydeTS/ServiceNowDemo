@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="occasion" table="x_usmcc_jepes_evaluation_header" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>occasion</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Annual</label>
+            <language>en</language>
+            <name>x_usmcc_jepes_evaluation_header</name>
+            <sequence/>
+            <sys_created_by>Kevin.Clyde</sys_created_by>
+            <sys_created_on>2020-02-14 16:04:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b784e1d0dbc700103b2944fa13961987</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Kevin.Clyde</sys_updated_by>
+            <sys_updated_on>2020-02-14 16:04:40</sys_updated_on>
+            <value>AN</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>occasion</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Change of Primary Duty</label>
+            <language>en</language>
+            <name>x_usmcc_jepes_evaluation_header</name>
+            <sequence/>
+            <sys_created_by>Kevin.Clyde</sys_created_by>
+            <sys_created_on>2020-02-14 16:04:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b384e1d0dbc700103b2944fa13961983</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Kevin.Clyde</sys_updated_by>
+            <sys_updated_on>2020-02-14 16:04:40</sys_updated_on>
+            <value>CD</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>occasion</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Discharge</label>
+            <language>en</language>
+            <name>x_usmcc_jepes_evaluation_header</name>
+            <sequence/>
+            <sys_created_by>Kevin.Clyde</sys_created_by>
+            <sys_created_on>2020-02-14 16:04:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3f84e1d0dbc700103b2944fa1396197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Kevin.Clyde</sys_updated_by>
+            <sys_updated_on>2020-02-14 16:04:40</sys_updated_on>
+            <value>DC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>occasion</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Promotion to Corporal or Sergeant</label>
+            <language>en</language>
+            <name>x_usmcc_jepes_evaluation_header</name>
+            <sequence/>
+            <sys_created_by>Kevin.Clyde</sys_created_by>
+            <sys_created_on>2020-02-14 16:04:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3b84e1d0dbc700103b2944fa13961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Kevin.Clyde</sys_updated_by>
+            <sys_updated_on>2020-02-14 16:04:39</sys_updated_on>
+            <value>PR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>occasion</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reduction</label>
+            <language>en</language>
+            <name>x_usmcc_jepes_evaluation_header</name>
+            <sequence/>
+            <sys_created_by>Kevin.Clyde</sys_created_by>
+            <sys_created_on>2020-02-14 16:04:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bb84e1d0dbc700103b2944fa1396197a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Kevin.Clyde</sys_updated_by>
+            <sys_updated_on>2020-02-14 16:04:39</sys_updated_on>
+            <value>RD</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>occasion</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Recommended</label>
+            <language>en</language>
+            <name>x_usmcc_jepes_evaluation_header</name>
+            <sequence/>
+            <sys_created_by>Kevin.Clyde</sys_created_by>
+            <sys_created_on>2020-02-14 16:04:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3b84e1d0dbc700103b2944fa13961989</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Kevin.Clyde</sys_updated_by>
+            <sys_updated_on>2020-02-14 16:04:40</sys_updated_on>
+            <value>RE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>occasion</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Semiannual</label>
+            <language>en</language>
+            <name>x_usmcc_jepes_evaluation_header</name>
+            <sequence/>
+            <sys_created_by>Kevin.Clyde</sys_created_by>
+            <sys_created_on>2020-02-14 16:04:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3784e1d0dbc700103b2944fa13961974</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Kevin.Clyde</sys_updated_by>
+            <sys_updated_on>2020-02-14 16:04:39</sys_updated_on>
+            <value>SA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>occasion</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Service School Completion</label>
+            <language>en</language>
+            <name>x_usmcc_jepes_evaluation_header</name>
+            <sequence/>
+            <sys_created_by>Kevin.Clyde</sys_created_by>
+            <sys_created_on>2020-02-14 16:04:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3784e1d0dbc700103b2944fa13961985</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Kevin.Clyde</sys_updated_by>
+            <sys_updated_on>2020-02-14 16:04:40</sys_updated_on>
+            <value>SC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>occasion</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TAD Complete</label>
+            <language>en</language>
+            <name>x_usmcc_jepes_evaluation_header</name>
+            <sequence/>
+            <sys_created_by>Kevin.Clyde</sys_created_by>
+            <sys_created_on>2020-02-14 16:04:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3384e1d0dbc700103b2944fa13961981</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Kevin.Clyde</sys_updated_by>
+            <sys_updated_on>2020-02-14 16:04:40</sys_updated_on>
+            <value>TC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>occasion</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>To TAD</label>
+            <language>en</language>
+            <name>x_usmcc_jepes_evaluation_header</name>
+            <sequence/>
+            <sys_created_by>Kevin.Clyde</sys_created_by>
+            <sys_created_on>2020-02-14 16:04:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bf84e1d0dbc700103b2944fa1396197e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Kevin.Clyde</sys_updated_by>
+            <sys_updated_on>2020-02-14 16:04:40</sys_updated_on>
+            <value>TD</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>occasion</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Transfer</label>
+            <language>en</language>
+            <name>x_usmcc_jepes_evaluation_header</name>
+            <sequence/>
+            <sys_created_by>Kevin.Clyde</sys_created_by>
+            <sys_created_on>2020-02-14 16:04:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b784e1d0dbc700103b2944fa13961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Kevin.Clyde</sys_updated_by>
+            <sys_updated_on>2020-02-14 16:04:39</sys_updated_on>
+            <value>TR</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>occasion</element>
+            <name>x_usmcc_jepes_evaluation_header</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Kevin.Clyde</sys_created_by>
+            <sys_created_on>2020-02-14 16:04:39</sys_created_on>
+            <sys_id>bf84e1d0dbc700103b2944fa13961974</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>occasion</sys_name>
+            <sys_package display_value="JEPES" source="x_usmcc_jepes">31f02110dbc700103b2944fa13961982</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="JEPES">31f02110dbc700103b2944fa13961982</sys_scope>
+            <sys_update_name>sys_choice_x_usmcc_jepes_evaluation_header_occasion</sys_update_name>
+            <sys_updated_by>Kevin.Clyde</sys_updated_by>
+            <sys_updated_on>2020-02-14 16:04:39</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
