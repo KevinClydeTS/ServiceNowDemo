@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System Import Sets" source="com.glide.system_import_set">9703ac44db03001063141dcd13961926</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>Nancy.Waters</sys_created_by>
+        <sys_created_on>2020-02-14 17:47:35</sys_created_on>
+        <sys_id>af1c359cdb0b00103b2944fa13961904</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="JEPES" source="x_usmcc_jepes">31f02110dbc700103b2944fa13961982</sys_package>
+        <sys_updated_by>Nancy.Waters</sys_updated_by>
+        <sys_updated_on>2020-02-14 17:47:35</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
