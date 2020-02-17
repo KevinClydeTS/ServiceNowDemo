@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="RatingCommentLOV" max_length="40" name="x_usmcc_jepes_ratingcommentlov" type="collection">
         <element label="RatingCategory" max_length="1" name="ratingcategory" type="string"/>
-        <element label="RatingCommentID" max_length="40" name="ratingcommentid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="RatingCommentID" max_length="40" name="ratingcommentid" type="integer"/>
         <element display="true" label="RatingDesc" max_length="255" name="ratingdesc" type="string"/>
         <element label="RatingText" max_length="255" name="ratingtext" type="string"/>
-        <element label="RatingValueOrder" max_length="40" name="ratingvalueorder" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="RatingValueOrder" max_length="40" name="ratingvalueorder" type="integer"/>
     </element>
 </database>
