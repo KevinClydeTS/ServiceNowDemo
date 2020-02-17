@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <authentication_type>no_authentication</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <description>REST call to the mock REST MCTFS interface hosted in SwaggerHub</description>
+        <name>mctfs</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>https://virtserver.swaggerhub.com/troika/mctfs/1.0/1058017550</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>Kevin.Clyde</sys_created_by>
+        <sys_created_on>2020-02-17 17:31:15</sys_created_on>
+        <sys_id>caf4d9d5db4bc0103b2944fa139619fa</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>mctfs</sys_name>
+        <sys_package display_value="JEPES" source="x_usmcc_jepes">31f02110dbc700103b2944fa13961982</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JEPES">31f02110dbc700103b2944fa13961982</sys_scope>
+        <sys_update_name>sys_rest_message_caf4d9d5db4bc0103b2944fa139619fa</sys_update_name>
+        <sys_updated_by>Kevin.Clyde</sys_updated_by>
+        <sys_updated_on>2020-02-17 17:33:18</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+</record_update>
