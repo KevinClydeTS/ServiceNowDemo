@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>1000</order>
-        <role display_value="jepes" name="jepes">42e9edd4dbc700103b2944fa13961943</role>
+        <role display_value="x_usmcc_jepes.jepes user" name="x_usmcc_jepes.jepes user">42e9edd4dbc700103b2944fa13961943</role>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>Kevin.Clyde</sys_created_by>
         <sys_created_on>2020-02-14 16:28:02</sys_created_on>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="DELETE">
+        <contains display_value="jepes" name="jepes">42e9edd4dbc700103b2944fa13961943</contains>
+        <role display_value="x_usmcc_jepes.approver" name="x_usmcc_jepes.approver">6e816910dbc700103b2944fa1396197f</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>Kevin.Clyde</sys_created_by>
+        <sys_created_on>2020-02-14 16:28:02</sys_created_on>
+        <sys_id>56e9edd4dbc700103b2944fa13961982</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>jepes.x_usmcc_jepes.approver</sys_name>
+        <sys_package display_value="JEPES" source="x_usmcc_jepes">31f02110dbc700103b2944fa13961982</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JEPES">31f02110dbc700103b2944fa13961982</sys_scope>
+        <sys_update_name>sys_user_role_contains_56e9edd4dbc700103b2944fa13961982</sys_update_name>
+        <sys_updated_by>Kevin.Clyde</sys_updated_by>
+        <sys_updated_on>2020-02-14 16:28:02</sys_updated_on>
+    </sys_user_role_contains>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="JEPES">31f02110dbc700103b2944fa13961982</application>
+        <file_path/>
+        <instance_id>e5106cccdbcb841449eac59705961942</instance_id>
+        <instance_name>troikapov</instance_name>
+        <name>sys_user_role_contains_56e9edd4dbc700103b2944fa13961982</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="jepes" name="jepes">42e9edd4dbc700103b2944fa13961943</contains>
+        <role display_value="x_usmcc_jepes.approver" name="x_usmcc_jepes.approver">6e816910dbc700103b2944fa1396197f</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>Kevin.Clyde</sys_created_by>
+        <sys_created_on>2020-02-14 16:28:02</sys_created_on>
+        <sys_id>56e9edd4dbc700103b2944fa13961982</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>jepes.x_usmcc_jepes.approver</sys_name>
+        <sys_package display_value="JEPES" source="x_usmcc_jepes">31f02110dbc700103b2944fa13961982</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JEPES">31f02110dbc700103b2944fa13961982</sys_scope>
+        <sys_update_name>sys_user_role_contains_56e9edd4dbc700103b2944fa13961982</sys_update_name>
+        <sys_updated_by>Kevin.Clyde</sys_updated_by>
+        <sys_updated_on>2020-02-14 16:28:02</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>]]></payload>
+        <payload_hash>1978639840</payload_hash>
+        <record_name>jepes.x_usmcc_jepes.approver</record_name>
+        <reverted_from/>
+        <source>54b3252ddbc704103b2944fa139619b9</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>Kevin.Clyde</sys_created_by>
+        <sys_created_on>2020-02-18 13:13:45</sys_created_on>
+        <sys_id>5bc3216ddbc704103b2944fa13961993</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170586edb570000001</sys_recorded_at>
+        <sys_updated_by>Kevin.Clyde</sys_updated_by>
+        <sys_updated_on>2020-02-18 13:13:45</sys_updated_on>
+        <type>Contained Role</type>
+        <update_guid>97c3216dcfc704105ead058be672bb93</update_guid>
+        <update_guid_history>97c3216dcfc704105ead058be672bb93:0,e493a9e9fdc70410b3e1f5046d9e7abd:1502092648,7823ada9bbc7041065e8141e48bfa1c3:0,c9e2a969b8c70410eb4e833b644b01ac:1502092648,5cae69d522cbc010033d38bf32162820:0,e76ee595f1cbc010620c7e137a71baea:-1426691951,4699ad9dd28bc01025bc305cbcd96cfe:0,ac69e95def8bc010a00320b06e066070:-1426691951,56a8a11dff8bc01088c7185b7c0ffc91:0,457861d9098bc010527675e0585b243e:-1426691951,70f76959238bc010268de076eb3c479c:0,acc7a519258bc010a38c7828feef1be8:-1426691951,e45b1e94bfcb0010387faad7434942b4:0,672b5e54b1cb0010a32d10715e9a93f0:-1426691951,46fa52548bcb001028c87f7315a9fdd2:0,7cdad214b1cb0010a82d5d856b87d71a:-1426691951,6caa96d042cb0010d2bed79bb22adbf3:0,5b7a1a9038cb0010c8777b9e79227623:-1426691951,14395e105ccb0010f91b529a3f320c7b:0,fc095edc5a8b00101b0a7f9288445110:-1426691951,cb45de98a58b0010f13208eecdf836b8:0,6225de58cd8b0010c0a23e8e0e38d396:-1426691951,11ffc290c28b0010dec1e04365b0ddba:0,04dfc250b98b0010e1dd88f19cb647bd:-1426691951,f33a39d8cb0b001074b452ee17104ca0:0,531a7998d70b0010f3b5573c8f8ca9af:-1426691951,16e9edd467c70010066666449bc5ac85:-1856202554</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Kevin.Clyde</sys_created_by>
+        <sys_created_on>2020-02-18 14:44:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role_contains">sys_user_role_contains</sys_db_object>
+        <sys_id>442fe76e39054684937db66ffb919964</sys_id>
+        <sys_metadata>56e9edd4dbc700103b2944fa13961982</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>jepes.x_usmcc_jepes.approver</sys_name>
+        <sys_package display_value="JEPES" source="x_usmcc_jepes">31f02110dbc700103b2944fa13961982</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="JEPES">31f02110dbc700103b2944fa13961982</sys_scope>
+        <sys_scope_delete display_value="">b176e6776b7348f4bd7d9d78739d1ca4</sys_scope_delete>
+        <sys_update_name>sys_user_role_contains_56e9edd4dbc700103b2944fa13961982</sys_update_name>
+        <sys_update_version display_value="sys_user_role_contains_56e9edd4dbc700103b2944fa13961982">5bc3216ddbc704103b2944fa13961993</sys_update_version>
+        <sys_updated_by>Kevin.Clyde</sys_updated_by>
+        <sys_updated_on>2020-02-18 14:44:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
