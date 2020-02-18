@@ -26,17 +26,17 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>f20af521db4b04103b2944fa139619d4</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>MRO Self-Assessment</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>MRO Assessment List</sys_name>
         <sys_overrides/>
         <sys_package display_value="JEPES" source="x_usmcc_jepes">31f02110dbc700103b2944fa13961982</sys_package>
         <sys_policy/>
         <sys_scope display_value="JEPES">31f02110dbc700103b2944fa13961982</sys_scope>
         <sys_update_name>sys_app_module_f20af521db4b04103b2944fa139619d4</sys_update_name>
         <sys_updated_by>Kevin.Clyde</sys_updated_by>
-        <sys_updated_on>2020-02-18 14:53:39</sys_updated_on>
+        <sys_updated_on>2020-02-18 15:30:24</sys_updated_on>
         <timeline_page/>
-        <title>MRO Self-Assessment</title>
+        <title>MRO Assessment List</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
