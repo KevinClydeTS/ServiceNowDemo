@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Evaluation Header" max_length="40" name="x_usmcc_jepes_evaluation_header" text_index="true" type="collection">
-        <element attributes="edge_encryption_enabled=true" label="From Date" max_length="40" name="from_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="From Date" max_length="40" name="from_date" read_only="true" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="MRO Comments" max_length="4000" name="mro_comments" type="journal"/>
-        <element attributes="encode_utf8=false" display="true" label="MRO EDIPI" max_length="32" name="mro_edipi" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" display="true" label="MRO EDIPI" max_length="32" name="mro_edipi" read_only="true" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="Occasion" max_length="40" name="occasion" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Occasion" max_length="40" name="occasion" read_only="true" type="string">
             <choice>
                 <element inactive_on_update="false" label="Annual" value="AN"/>
                 <element inactive_on_update="false" label="Change of Primary Duty" value="CD"/>
@@ -20,7 +20,7 @@
             </choice>
         </element>
         <element label="Progress" max_length="40" name="progress" type="integer"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="status" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="status" read_only="true" type="string">
             <choice>
                 <element inactive_on_update="false" label="closed" value="closed"/>
                 <element inactive_on_update="false" label="evaluation" value="evaluation"/>
@@ -28,7 +28,7 @@
                 <element inactive_on_update="false" label="submitted" value="submitted"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" label="To Date" max_length="40" name="to_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="To Date" max_length="40" name="to_date" read_only="true" type="glide_date"/>
         <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="New List" max_length="1024" name="u_glide_list_1" reference="x_usmcc_jepes_evaluation_marks" type="glide_list"/>
         <index name="index">
             <element name="mro_edipi"/>

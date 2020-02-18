@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>Kevin.Clyde</sys_created_by>
-            <sys_created_on>2020-02-17 19:18:32</sys_created_on>
-            <sys_id>89bded15dbcbc0103b2944fa13961904</sys_id>
+            <sys_created_on>2020-02-18 15:17:51</sys_created_on>
+            <sys_id>593086e5db4b04103b2944fa139619f8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_usmcc_jepes_evaluation_header" sys_domain="global" view="Default view">d093f114db0b00103b2944fa1396190f</sys_ui_section>
             <sys_updated_by>Kevin.Clyde</sys_updated_by>
-            <sys_updated_on>2020-02-17 19:18:32</sys_updated_on>
+            <sys_updated_on>2020-02-18 15:17:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,69 +18,83 @@
             <element>occasion</element>
             <position>1</position>
             <sys_created_by>Kevin.Clyde</sys_created_by>
-            <sys_created_on>2020-02-17 19:18:32</sys_created_on>
-            <sys_id>0dbded15dbcbc0103b2944fa13961904</sys_id>
+            <sys_created_on>2020-02-18 15:17:51</sys_created_on>
+            <sys_id>153086e5db4b04103b2944fa139619f9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_usmcc_jepes_evaluation_header" sys_domain="global" view="Default view">d093f114db0b00103b2944fa1396190f</sys_ui_section>
             <sys_updated_by>Kevin.Clyde</sys_updated_by>
-            <sys_updated_on>2020-02-17 19:18:32</sys_updated_on>
+            <sys_updated_on>2020-02-18 15:17:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>2</position>
+            <sys_created_by>Kevin.Clyde</sys_created_by>
+            <sys_created_on>2020-02-18 15:17:51</sys_created_on>
+            <sys_id>993086e5db4b04103b2944fa139619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_usmcc_jepes_evaluation_header" sys_domain="global" view="Default view">d093f114db0b00103b2944fa1396190f</sys_ui_section>
+            <sys_updated_by>Kevin.Clyde</sys_updated_by>
+            <sys_updated_on>2020-02-18 15:17:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>Kevin.Clyde</sys_created_by>
-            <sys_created_on>2020-02-17 19:18:32</sys_created_on>
-            <sys_id>8dbded15dbcbc0103b2944fa13961904</sys_id>
+            <sys_created_on>2020-02-18 15:17:51</sys_created_on>
+            <sys_id>113086e5db4b04103b2944fa139619fa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_usmcc_jepes_evaluation_header" sys_domain="global" view="Default view">d093f114db0b00103b2944fa1396190f</sys_ui_section>
             <sys_updated_by>Kevin.Clyde</sys_updated_by>
-            <sys_updated_on>2020-02-17 19:18:32</sys_updated_on>
+            <sys_updated_on>2020-02-18 15:17:51</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>mro_edipi</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>Kevin.Clyde</sys_created_by>
-            <sys_created_on>2020-02-17 19:18:32</sys_created_on>
-            <sys_id>01bded15dbcbc0103b2944fa13961905</sys_id>
+            <sys_created_on>2020-02-18 15:17:51</sys_created_on>
+            <sys_id>953086e5db4b04103b2944fa139619fa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_usmcc_jepes_evaluation_header" sys_domain="global" view="Default view">d093f114db0b00103b2944fa1396190f</sys_ui_section>
             <sys_updated_by>Kevin.Clyde</sys_updated_by>
-            <sys_updated_on>2020-02-17 19:18:32</sys_updated_on>
+            <sys_updated_on>2020-02-18 15:17:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>from_date</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>Kevin.Clyde</sys_created_by>
-            <sys_created_on>2020-02-17 19:18:32</sys_created_on>
-            <sys_id>81bded15dbcbc0103b2944fa13961905</sys_id>
+            <sys_created_on>2020-02-18 15:17:51</sys_created_on>
+            <sys_id>1d3086e5db4b04103b2944fa139619fa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_usmcc_jepes_evaluation_header" sys_domain="global" view="Default view">d093f114db0b00103b2944fa1396190f</sys_ui_section>
             <sys_updated_by>Kevin.Clyde</sys_updated_by>
-            <sys_updated_on>2020-02-17 19:18:32</sys_updated_on>
+            <sys_updated_on>2020-02-18 15:17:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>to_date</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>Kevin.Clyde</sys_created_by>
-            <sys_created_on>2020-02-17 19:18:32</sys_created_on>
-            <sys_id>05bded15dbcbc0103b2944fa13961905</sys_id>
+            <sys_created_on>2020-02-18 15:17:51</sys_created_on>
+            <sys_id>913086e5db4b04103b2944fa139619fb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_usmcc_jepes_evaluation_header" sys_domain="global" view="Default view">d093f114db0b00103b2944fa1396190f</sys_ui_section>
             <sys_updated_by>Kevin.Clyde</sys_updated_by>
-            <sys_updated_on>2020-02-17 19:18:32</sys_updated_on>
+            <sys_updated_on>2020-02-18 15:17:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
