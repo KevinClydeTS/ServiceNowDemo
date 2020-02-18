@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="evaluation" label="Evaluation" language="en" table="x_usmcc_jepes_task">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>evaluation</element>
+            <help/>
+            <hint/>
+            <label>Evaluation</label>
+            <language>en</language>
+            <name>x_usmcc_jepes_task</name>
+            <plural>Evaluations</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Kevin.Clyde</sys_created_by>
+            <sys_created_on>2020-02-18 18:37:34</sys_created_on>
+            <sys_id>3aedee6ddbcb04103b2944fa1396192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Evaluation</sys_name>
+            <sys_package display_value="JEPES" source="x_usmcc_jepes">31f02110dbc700103b2944fa13961982</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="JEPES">31f02110dbc700103b2944fa13961982</sys_scope>
+            <sys_update_name>sys_documentation_x_usmcc_jepes_task_evaluation_en</sys_update_name>
+            <sys_updated_by>Kevin.Clyde</sys_updated_by>
+            <sys_updated_on>2020-02-18 18:37:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

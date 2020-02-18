@@ -10,7 +10,7 @@
         <copied_from_name/>
         <description>Allows the MRO to verify MCTFS data and complete a self-assessment.</description>
         <internal_name>mro_actions</internal_name>
-        <label_cache>[{"name":"9fd7f059-1f1b-45e3-9755-910efbadbd86.Table","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"9fd7f059-1f1b-45e3-9755-910efbadbd86.Record","label":"1➛Record","reference":"task","reference_display":"Task","type":"document_id","base_type":"document_id"},{"name":"05596180-c741-4ee5-9344-523eca2ae1ae.Record","label":"1➛Record","reference":"task","reference_display":"Task","type":"document_id","base_type":"document_id"},{"name":"05596180-c741-4ee5-9344-523eca2ae1ae.Table","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"3a23395b-aab6-4983-adeb-9cf035a1cd62.email","label":"1➛email","reference":"sys_email","reference_display":"email","type":"reference","base_type":"reference"}]</label_cache>
+        <label_cache>[{"name":"3a23395b-aab6-4983-adeb-9cf035a1cd62.email","label":"1➛email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference"},{"name":"05596180-c741-4ee5-9344-523eca2ae1ae.Table","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"05596180-c741-4ee5-9344-523eca2ae1ae.Record","label":"1➛Record","reference":"task","reference_display":"Task","type":"document_id","base_type":"document_id"},{"name":"9fd7f059-1f1b-45e3-9755-910efbadbd86.Record","label":"1➛Record","reference":"task","reference_display":"Task","type":"document_id","base_type":"document_id"},{"name":"9fd7f059-1f1b-45e3-9755-910efbadbd86.Table","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"8eb4aeb3-d19f-4fca-a622-9cbe51176d76.Record","label":"1➛Record","reference":"task","reference_display":"Task","type":"document_id","base_type":"document_id"},{"name":"8eb4aeb3-d19f-4fca-a622-9cbe51176d76.Table","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"Created_1.current.mro_edipi.employee_number","label":"Trigger➛Evaluation Header Record➛MRO EDIPI➛Employee number","reference":"","reference_display":"Employee number","type":"string","base_type":"string","parent_table_name":"sys_user","column_name":"employee_number"},{"name":"Created_1.current.mro_edipi","label":"Trigger➛Evaluation Header Record➛MRO EDIPI","reference":"sys_user","reference_display":"MRO EDIPI","type":"reference","base_type":"reference","parent_table_name":"x_usmcc_jepes_evaluation_header","column_name":"mro_edipi"}]</label_cache>
         <latest_snapshot/>
         <master_snapshot/>
         <name>MRO Actions</name>
@@ -27,7 +27,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6a261519db4bc0103b2944fa13961933</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>MRO Actions</sys_name>
         <sys_overrides/>
         <sys_package display_value="JEPES" source="x_usmcc_jepes">31f02110dbc700103b2944fa13961982</sys_package>
@@ -35,11 +35,73 @@
         <sys_scope display_value="JEPES">31f02110dbc700103b2944fa13961982</sys_scope>
         <sys_update_name>sys_hub_flow_6a261519db4bc0103b2944fa13961933</sys_update_name>
         <sys_updated_by>Kevin.Clyde</sys_updated_by>
-        <sys_updated_on>2020-02-17 18:46:38</sys_updated_on>
+        <sys_updated_on>2020-02-18 18:42:55</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=6a261519db4bc0103b2944fa13961933"/>
     <sys_variable_value action="delete_multiple" query="document_key=6a261519db4bc0103b2944fa13961933"/>
+    <sys_hub_flow_component action="delete_multiple" query="flow=6a261519db4bc0103b2944fa13961933^sys_idNOT IN99ccee2ddbcb04103b2944fa139619da"/>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Create Task">3f9b1ff1531003003bf1d9109ec58775</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="MRO Actions">6a261519db4bc0103b2944fa13961933</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>Kevin.Clyde</sys_created_by>
+        <sys_created_on>2020-02-18 18:32:33</sys_created_on>
+        <sys_id>99ccee2ddbcb04103b2944fa139619da</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_scope display_value="JEPES">31f02110dbc700103b2944fa13961982</sys_scope>
+        <sys_updated_by>Kevin.Clyde</sys_updated_by>
+        <sys_updated_on>2020-02-18 18:42:55</sys_updated_on>
+        <ui_id>8eb4aeb3-d19f-4fca-a622-9cbe51176d76</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=99ccee2ddbcb04103b2944fa139619da"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>99ccee2ddbcb04103b2944fa139619da</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Kevin.Clyde</sys_created_by>
+        <sys_created_on>2020-02-18 18:32:33</sys_created_on>
+        <sys_id>59ccee2ddbcb04103b2944fa139619dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Kevin.Clyde</sys_updated_by>
+        <sys_updated_on>2020-02-18 18:32:33</sys_updated_on>
+        <value>x_usmcc_jepes_task</value>
+        <variable display_value="">957cdff1531003003bf1d9109ec58753</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=99ccee2ddbcb04103b2944fa139619da"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>field_values</field>
+        <id>99ccee2ddbcb04103b2944fa139619da</id>
+        <sys_created_by>Kevin.Clyde</sys_created_by>
+        <sys_created_on>2020-02-18 18:32:33</sys_created_on>
+        <sys_id>d5ccee2ddbcb04103b2944fa139619dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Kevin.Clyde</sys_updated_by>
+        <sys_updated_on>2020-02-18 18:32:33</sys_updated_on>
+        <table>var__m_sys_hub_action_input_3f9b1ff1531003003bf1d9109ec58775</table>
+        <value>assigned_to={{Created_1.current.mro_edipi.employee_number}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>task_table</field>
+        <id>99ccee2ddbcb04103b2944fa139619da</id>
+        <sys_created_by>Kevin.Clyde</sys_created_by>
+        <sys_created_on>2020-02-18 18:32:33</sys_created_on>
+        <sys_id>9dccee2ddbcb04103b2944fa139619dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Kevin.Clyde</sys_updated_by>
+        <sys_updated_on>2020-02-18 18:32:33</sys_updated_on>
+        <table>var__m_sys_hub_action_input_3f9b1ff1531003003bf1d9109ec58775</table>
+        <value/>
+    </sys_element_mapping>
     <sys_hub_trigger_instance action="delete_multiple" query="flow=6a261519db4bc0103b2944fa13961933^sys_idNOT INadd61d59db4bc0103b2944fa13961908"/>
     <sys_hub_trigger_instance action="INSERT_OR_UPDATE">
         <comment/>
@@ -50,10 +112,10 @@
         <sys_created_by>Kevin.Clyde</sys_created_by>
         <sys_created_on>2020-02-17 17:38:38</sys_created_on>
         <sys_id>add61d59db4bc0103b2944fa13961908</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>Kevin.Clyde</sys_updated_by>
-        <sys_updated_on>2020-02-17 18:46:37</sys_updated_on>
+        <sys_updated_on>2020-02-18 18:42:54</sys_updated_on>
         <trigger_definition display_value="Created">798916a0c31322002841b63b12d3ae7c</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -263,6 +325,68 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_flow_input>
+    <sys_hub_action_instance action="delete_multiple" query="flow=6a261519db4bc0103b2944fa13961933^sys_idNOT IN99ccee2ddbcb04103b2944fa139619da"/>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Create Task">3f9b1ff1531003003bf1d9109ec58775</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="MRO Actions">6a261519db4bc0103b2944fa13961933</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>Kevin.Clyde</sys_created_by>
+        <sys_created_on>2020-02-18 18:32:33</sys_created_on>
+        <sys_id>99ccee2ddbcb04103b2944fa139619da</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_scope display_value="JEPES">31f02110dbc700103b2944fa13961982</sys_scope>
+        <sys_updated_by>Kevin.Clyde</sys_updated_by>
+        <sys_updated_on>2020-02-18 18:42:55</sys_updated_on>
+        <ui_id>8eb4aeb3-d19f-4fca-a622-9cbe51176d76</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=99ccee2ddbcb04103b2944fa139619da"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>99ccee2ddbcb04103b2944fa139619da</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Kevin.Clyde</sys_created_by>
+        <sys_created_on>2020-02-18 18:32:33</sys_created_on>
+        <sys_id>59ccee2ddbcb04103b2944fa139619dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Kevin.Clyde</sys_updated_by>
+        <sys_updated_on>2020-02-18 18:32:33</sys_updated_on>
+        <value>x_usmcc_jepes_task</value>
+        <variable display_value="">957cdff1531003003bf1d9109ec58753</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=99ccee2ddbcb04103b2944fa139619da"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>field_values</field>
+        <id>99ccee2ddbcb04103b2944fa139619da</id>
+        <sys_created_by>Kevin.Clyde</sys_created_by>
+        <sys_created_on>2020-02-18 18:32:33</sys_created_on>
+        <sys_id>d5ccee2ddbcb04103b2944fa139619dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Kevin.Clyde</sys_updated_by>
+        <sys_updated_on>2020-02-18 18:32:33</sys_updated_on>
+        <table>var__m_sys_hub_action_input_3f9b1ff1531003003bf1d9109ec58775</table>
+        <value>assigned_to={{Created_1.current.mro_edipi.employee_number}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>task_table</field>
+        <id>99ccee2ddbcb04103b2944fa139619da</id>
+        <sys_created_by>Kevin.Clyde</sys_created_by>
+        <sys_created_on>2020-02-18 18:32:33</sys_created_on>
+        <sys_id>9dccee2ddbcb04103b2944fa139619dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Kevin.Clyde</sys_updated_by>
+        <sys_updated_on>2020-02-18 18:32:33</sys_updated_on>
+        <table>var__m_sys_hub_action_input_3f9b1ff1531003003bf1d9109ec58775</table>
+        <value/>
+    </sys_element_mapping>
     <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_6a261519db4bc0103b2944fa13961933^sys_idNOT IN2dd61959db4bc0103b2944fa139619b3,edd61d59db4bc0103b2944fa13961906"/>
     <sys_documentation action="INSERT_OR_UPDATE">
         <element>current</element>

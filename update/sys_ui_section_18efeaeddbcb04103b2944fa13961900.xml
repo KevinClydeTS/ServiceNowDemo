@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="18efeaeddbcb04103b2944fa13961900" sys_domain="global" table="x_usmcc_jepes_task" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>Kevin.Clyde</sys_created_by>
+            <sys_created_on>2020-02-18 18:48:09</sys_created_on>
+            <sys_id>f9503621db0f04103b2944fa13961922</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_usmcc_jepes_task" sys_domain="global" view="Default view">18efeaeddbcb04103b2944fa13961900</sys_ui_section>
+            <sys_updated_by>Kevin.Clyde</sys_updated_by>
+            <sys_updated_on>2020-02-18 18:48:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>1</position>
+            <sys_created_by>Kevin.Clyde</sys_created_by>
+            <sys_created_on>2020-02-18 18:48:09</sys_created_on>
+            <sys_id>71503621db0f04103b2944fa13961923</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_usmcc_jepes_task" sys_domain="global" view="Default view">18efeaeddbcb04103b2944fa13961900</sys_ui_section>
+            <sys_updated_by>Kevin.Clyde</sys_updated_by>
+            <sys_updated_on>2020-02-18 18:48:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>Kevin.Clyde</sys_created_by>
+            <sys_created_on>2020-02-18 18:48:09</sys_created_on>
+            <sys_id>f5503621db0f04103b2944fa13961923</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_usmcc_jepes_task" sys_domain="global" view="Default view">18efeaeddbcb04103b2944fa13961900</sys_ui_section>
+            <sys_updated_by>Kevin.Clyde</sys_updated_by>
+            <sys_updated_on>2020-02-18 18:48:09</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>3</position>
+            <sys_created_by>Kevin.Clyde</sys_created_by>
+            <sys_created_on>2020-02-18 18:48:09</sys_created_on>
+            <sys_id>7d503621db0f04103b2944fa13961923</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_usmcc_jepes_task" sys_domain="global" view="Default view">18efeaeddbcb04103b2944fa13961900</sys_ui_section>
+            <sys_updated_by>Kevin.Clyde</sys_updated_by>
+            <sys_updated_on>2020-02-18 18:48:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent</element>
+            <position>4</position>
+            <sys_created_by>Kevin.Clyde</sys_created_by>
+            <sys_created_on>2020-02-18 18:48:09</sys_created_on>
+            <sys_id>f1503621db0f04103b2944fa13961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_usmcc_jepes_task" sys_domain="global" view="Default view">18efeaeddbcb04103b2944fa13961900</sys_ui_section>
+            <sys_updated_by>Kevin.Clyde</sys_updated_by>
+            <sys_updated_on>2020-02-18 18:48:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>5</position>
+            <sys_created_by>Kevin.Clyde</sys_created_by>
+            <sys_created_on>2020-02-18 18:48:09</sys_created_on>
+            <sys_id>79503621db0f04103b2944fa13961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_usmcc_jepes_task" sys_domain="global" view="Default view">18efeaeddbcb04103b2944fa13961900</sys_ui_section>
+            <sys_updated_by>Kevin.Clyde</sys_updated_by>
+            <sys_updated_on>2020-02-18 18:48:09</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>6</position>
+            <sys_created_by>Kevin.Clyde</sys_created_by>
+            <sys_created_on>2020-02-18 18:48:09</sys_created_on>
+            <sys_id>fd503621db0f04103b2944fa13961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_usmcc_jepes_task" sys_domain="global" view="Default view">18efeaeddbcb04103b2944fa13961900</sys_ui_section>
+            <sys_updated_by>Kevin.Clyde</sys_updated_by>
+            <sys_updated_on>2020-02-18 18:48:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>evaluation</element>
+            <position>7</position>
+            <sys_created_by>Kevin.Clyde</sys_created_by>
+            <sys_created_on>2020-02-18 18:48:09</sys_created_on>
+            <sys_id>75503621db0f04103b2944fa13961925</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_usmcc_jepes_task" sys_domain="global" view="Default view">18efeaeddbcb04103b2944fa13961900</sys_ui_section>
+            <sys_updated_by>Kevin.Clyde</sys_updated_by>
+            <sys_updated_on>2020-02-18 18:48:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_usmcc_jepes_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>Kevin.Clyde</sys_created_by>
+            <sys_created_on>2020-02-18 18:46:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>18efeaeddbcb04103b2944fa13961900</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_usmcc_jepes_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="JEPES" source="x_usmcc_jepes">31f02110dbc700103b2944fa13961982</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="JEPES">31f02110dbc700103b2944fa13961982</sys_scope>
+            <sys_update_name>sys_ui_section_18efeaeddbcb04103b2944fa13961900</sys_update_name>
+            <sys_updated_by>Kevin.Clyde</sys_updated_by>
+            <sys_updated_on>2020-02-18 18:46:09</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
