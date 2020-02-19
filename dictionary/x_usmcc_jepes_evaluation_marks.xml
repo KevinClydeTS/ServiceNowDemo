@@ -3,7 +3,7 @@
         <element attributes="edge_encryption_enabled=true" label="Character Reason" max_length="40" name="character_reason" type="string"/>
         <element label="Character Score" max_length="15" name="character_score" type="decimal"/>
         <element attributes="edge_encryption_enabled=true" label="Comments" max_length="4000" name="comments" type="journal"/>
-        <element attributes="encode_utf8=false" display="true" label="Evaluation ID" max_length="32" name="evaluation_id" reference="x_usmcc_jepes_evaluation_header" type="reference"/>
+        <element attributes="encode_utf8=false" display="true" label="Evaluation ID" max_length="32" name="evaluation_id" reference="x_usmcc_jepes_evaluation_header" reference_qual="numberISNOTEMPTY^EQ" reference_qual_condition="numberISNOTEMPTY^EQ" type="reference"/>
         <element attributes="encode_utf8=false" label="Evaluator" max_length="32" name="evaluator" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Evaluator Type" max_length="40" name="evaluator_type" type="string">
             <choice>

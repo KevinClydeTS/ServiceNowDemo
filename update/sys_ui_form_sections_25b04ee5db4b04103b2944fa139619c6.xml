@@ -10,7 +10,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_usmcc_jepes_evaluation_header" name="x_usmcc_jepes_evaluation_header" sys_domain="global" view="e5b04ee5db4b04103b2944fa13961929">25b04ee5db4b04103b2944fa139619c6</sys_ui_form>
-            <sys_ui_section caption="NULL" display_value="" name="x_usmcc_jepes_evaluation_header" sys_domain="global" view="e5b04ee5db4b04103b2944fa13961929">a5b04ee5db4b04103b2944fa139619c3</sys_ui_section>
+            <sys_ui_section display_value="">a5b04ee5db4b04103b2944fa139619c3</sys_ui_section>
             <sys_updated_by>Kevin.Clyde</sys_updated_by>
             <sys_updated_on>2020-02-18 15:20:04</sys_updated_on>
         </sys_ui_form_section>
@@ -24,7 +24,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_usmcc_jepes_evaluation_header" name="x_usmcc_jepes_evaluation_header" sys_domain="global" view="e5b04ee5db4b04103b2944fa13961929">25b04ee5db4b04103b2944fa139619c6</sys_ui_form>
-            <sys_ui_section caption="Evaluators" display_value="Evaluators" name="x_usmcc_jepes_evaluation_header" sys_domain="global" view="e5b04ee5db4b04103b2944fa13961929">21b04ee5db4b04103b2944fa139619c5</sys_ui_section>
+            <sys_ui_section display_value="">21b04ee5db4b04103b2944fa139619c5</sys_ui_section>
             <sys_updated_by>Kevin.Clyde</sys_updated_by>
             <sys_updated_on>2020-02-18 15:20:04</sys_updated_on>
         </sys_ui_form_section>

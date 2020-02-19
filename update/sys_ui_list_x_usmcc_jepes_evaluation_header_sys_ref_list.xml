@@ -2,18 +2,78 @@
     <sys_ui_list parent="" relationship="" sys_domain="global" table="x_usmcc_jepes_evaluation_header" version="2" view="sys_ref_list">
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>mro_edipi</element>
-            <list_id display_value="x_usmcc_jepes_evaluation_header" element="NULL" name="x_usmcc_jepes_evaluation_header" parent="NULL" relationship="NULL" sys_domain="global" view="06522040db03001063141dcd139619ba">44e01665db8b04103b2944fa139619cc</list_id>
+            <element>number</element>
+            <list_id display_value="x_usmcc_jepes_evaluation_header" element="NULL" name="x_usmcc_jepes_evaluation_header" parent="NULL" relationship="NULL" sys_domain="global" view="06522040db03001063141dcd139619ba">135adbe5db8f04103b2944fa13961975</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
-            <sys_created_by>Kevin.Clyde</sys_created_by>
-            <sys_created_on>2020-02-18 16:30:41</sys_created_on>
-            <sys_id>8ce01665db8b04103b2944fa139619cd</sys_id>
+            <sys_created_by>Nancy.Waters</sys_created_by>
+            <sys_created_on>2020-02-18 21:51:45</sys_created_on>
+            <sys_id>5b5adbe5db8f04103b2944fa13961975</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>Kevin.Clyde</sys_updated_by>
-            <sys_updated_on>2020-02-18 16:30:41</sys_updated_on>
+            <sys_updated_by>Nancy.Waters</sys_updated_by>
+            <sys_updated_on>2020-02-18 21:51:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>mro_edipi</element>
+            <list_id display_value="x_usmcc_jepes_evaluation_header" element="NULL" name="x_usmcc_jepes_evaluation_header" parent="NULL" relationship="NULL" sys_domain="global" view="06522040db03001063141dcd139619ba">135adbe5db8f04103b2944fa13961975</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>Nancy.Waters</sys_created_by>
+            <sys_created_on>2020-02-18 21:51:45</sys_created_on>
+            <sys_id>db5adbe5db8f04103b2944fa13961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Nancy.Waters</sys_updated_by>
+            <sys_updated_on>2020-02-18 21:51:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>occasion</element>
+            <list_id display_value="x_usmcc_jepes_evaluation_header" element="NULL" name="x_usmcc_jepes_evaluation_header" parent="NULL" relationship="NULL" sys_domain="global" view="06522040db03001063141dcd139619ba">135adbe5db8f04103b2944fa13961975</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>Nancy.Waters</sys_created_by>
+            <sys_created_on>2020-02-18 21:51:45</sys_created_on>
+            <sys_id>5f5adbe5db8f04103b2944fa13961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Nancy.Waters</sys_updated_by>
+            <sys_updated_on>2020-02-18 21:51:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>from_date</element>
+            <list_id display_value="x_usmcc_jepes_evaluation_header" element="NULL" name="x_usmcc_jepes_evaluation_header" parent="NULL" relationship="NULL" sys_domain="global" view="06522040db03001063141dcd139619ba">135adbe5db8f04103b2944fa13961975</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>Nancy.Waters</sys_created_by>
+            <sys_created_on>2020-02-18 21:51:45</sys_created_on>
+            <sys_id>df5adbe5db8f04103b2944fa13961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Nancy.Waters</sys_updated_by>
+            <sys_updated_on>2020-02-18 21:51:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>to_date</element>
+            <list_id display_value="x_usmcc_jepes_evaluation_header" element="NULL" name="x_usmcc_jepes_evaluation_header" parent="NULL" relationship="NULL" sys_domain="global" view="06522040db03001063141dcd139619ba">135adbe5db8f04103b2944fa13961975</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>Nancy.Waters</sys_created_by>
+            <sys_created_on>2020-02-18 21:51:45</sys_created_on>
+            <sys_id>535adbe5db8f04103b2944fa13961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Nancy.Waters</sys_updated_by>
+            <sys_updated_on>2020-02-18 21:51:45</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -26,19 +86,19 @@
             <relationship/>
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
-            <sys_created_by>Kevin.Clyde</sys_created_by>
-            <sys_created_on>2020-02-18 16:30:41</sys_created_on>
+            <sys_created_by>Nancy.Waters</sys_created_by>
+            <sys_created_on>2020-02-18 21:51:45</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>44e01665db8b04103b2944fa139619cc</sys_id>
+            <sys_id>135adbe5db8f04103b2944fa13961975</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_usmcc_jepes_evaluation_header</sys_name>
             <sys_package display_value="JEPES" source="x_usmcc_jepes">31f02110dbc700103b2944fa13961982</sys_package>
             <sys_policy/>
             <sys_scope display_value="JEPES">31f02110dbc700103b2944fa13961982</sys_scope>
             <sys_update_name>sys_ui_list_x_usmcc_jepes_evaluation_header_sys_ref_list</sys_update_name>
-            <sys_updated_by>Kevin.Clyde</sys_updated_by>
-            <sys_updated_on>2020-02-18 16:30:41</sys_updated_on>
+            <sys_updated_by>Nancy.Waters</sys_updated_by>
+            <sys_updated_on>2020-02-18 21:51:45</sys_updated_on>
             <sys_user/>
             <view display_value="Reference List" name="sys_ref_list">06522040db03001063141dcd139619ba</view>
             <view_name/>
