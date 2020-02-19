@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>Kevin.Clyde</sys_created_by>
         <sys_created_on>2020-02-14 16:17:48</sys_created_on>
-        <sys_id>9745dbeddb4f04103b2944fa13961937</sys_id>
+        <sys_id>78d2b231db4b44103b2944fa139619f3</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_usmcc_jepes_evaluation_marks</sys_name>
         <sys_package display_value="JEPES" source="x_usmcc_jepes">31f02110dbc700103b2944fa13961982</sys_package>
         <sys_policy/>
         <sys_scope display_value="JEPES">31f02110dbc700103b2944fa13961982</sys_scope>
-        <sys_update_name>ua_table_licensing_config_9745dbeddb4f04103b2944fa13961937</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_78d2b231db4b44103b2944fa139619f3</sys_update_name>
         <sys_updated_by>Kevin.Clyde</sys_updated_by>
         <sys_updated_on>2020-02-14 16:17:48</sys_updated_on>
     </ua_table_licensing_config>

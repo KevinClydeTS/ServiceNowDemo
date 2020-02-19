@@ -48,7 +48,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>Nancy.Waters</sys_created_by>
         <sys_created_on>2020-02-14 17:47:35</sys_created_on>
-        <sys_id>2745dbeddb4f04103b2944fa13961965</sys_id>
+        <sys_id>c9d2f231db4b44103b2944fa1396192d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Employee number</sys_name>
         <sys_package display_value="JEPES" source="x_usmcc_jepes">31f02110dbc700103b2944fa13961982</sys_package>
@@ -56,7 +56,7 @@
         <sys_scope display_value="JEPES">31f02110dbc700103b2944fa13961982</sys_scope>
         <sys_update_name>sys_dictionary_u_imp_tmpl_sys_user_u_employee_number</sys_update_name>
         <sys_updated_by>Kevin.Clyde</sys_updated_by>
-        <sys_updated_on>2020-02-18 21:29:44</sys_updated_on>
+        <sys_updated_on>2020-02-19 13:37:35</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
